@@ -6,7 +6,7 @@
 //
 
 
-package com.soprasteria.jaxbtest;
+package com.bzhang.jaxb;
 
 import javax.xml.bind.annotation.XmlRegistry;
 

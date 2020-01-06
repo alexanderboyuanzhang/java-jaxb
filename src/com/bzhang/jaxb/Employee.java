@@ -6,7 +6,7 @@
 //
 
 
-package com.soprasteria.jaxbtest;
+package com.bzhang.jaxb;
 
 import java.util.ArrayList;
 import java.util.List;

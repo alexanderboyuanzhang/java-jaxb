@@ -1,4 +1,4 @@
-package com.soprasteria.jaxbtest;
+package com.bzhang.jaxb;
 
 //import java.io.File;
 //import java.io.IOException;
